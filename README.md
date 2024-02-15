@@ -1,4 +1,6 @@
 ### Hi there 👋
+## Self - taught software developer
+## Tech Enthusiast
 
 <!--
 **Krypter93/Krypter93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
