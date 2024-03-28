@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Self - taught software developer
 ## Tech Enthusiast
-### Stack: HTML, CSS, JS, PHP
+### Stack: HTML, CSS, JS, PHP, SQL
 
 <!--
 **Krypter93/Krypter93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
