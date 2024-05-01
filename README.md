@@ -3,6 +3,10 @@
 ## Tech Enthusiast
 ### Stack: HTML, CSS, JS, PHP, SQL
 
+### I'm open to collaborate in any Open Source project
+
+### Reach me: ahmedfdez93@gmail.com
+
 <!--
 **Krypter93/Krypter93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
