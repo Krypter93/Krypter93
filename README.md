@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Self - taught software developer
 ## Tech Enthusiast
-### Stack: HTML, CSS, JS, PHP, SQL
+### Stack: HTML, CSS, JS, REACT, PHP, SQL
 
 ### I'm open to collaborate in any Open Source project
 
