@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Self - taught software developer
+## Self - taught web developer
 ## Tech Enthusiast
 ### Stack: HTML, CSS, JS, REACT, PHP, SQL
 
