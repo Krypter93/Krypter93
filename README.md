@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Self - taught web developer
 ## Tech Enthusiast
-### Stack: HTML, CSS, JS, REACT, PHP, SQL
+### Stack: [![My Skills](https://skillicons.dev/icons?i="html","css","js","react","php","mysql")](https://skillicons.dev)
 
 ### I'm open to collaborate in any Open Source project
 
