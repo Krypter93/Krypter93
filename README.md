@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Self - taught web developer
+## Focus on build amazing experiences and aiming to achieve proficiency on Web Development
 ## Tech Enthusiast
 ### Stack: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,mysql)](https://skillicons.dev)
