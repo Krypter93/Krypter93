@@ -2,7 +2,7 @@
 ## Focus on build amazing experiences and aiming to achieve proficiency on Web Development
 ## Tech Enthusiast
 ### Stack: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,react,php,mysql)](https://skillicons.dev)
 
 ### I'm open to collaborate in any Open Source project
 
