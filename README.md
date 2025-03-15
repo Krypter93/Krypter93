@@ -1,5 +1,7 @@
 ### Hi there 👋
-## Focus on build amazing experiences and aiming to achieve proficiency on Web Development
+
+Passionate about building seamless digital experiences and continuously improving my skills in Web Development and IT Infrastructure. I enjoy designing scalable systems, optimizing networks, and ensuring robust and efficient IT environments. Always eager to learn and implement new technologies to enhance performance and reliability.
+
 ## Tech Enthusiast
 ### Stack: 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,react,php,mysql)](https://skillicons.dev)
